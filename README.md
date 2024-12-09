@@ -10,9 +10,11 @@ Type your password: account8
 
 Password is WEAK
 
- ~ when searching for word ~
-Separate Chaining Comparison: 590
-Linear Probing Comparison: 59
+~ if searching for word ~
+Separate Chaining Comparison (NEW): 8
+Linear Probing Comparison (NEW): 1
+Separate Chaining Comparison (OLD): 15
+Linear Probing Comparison (OLD): 1
 Process finished with exit code 0
 
 
@@ -21,9 +23,11 @@ Type your password: accountability
 
 Password is WEAK
 
- ~ when searching for word ~
-Separate Chaining Comparison: 600
-Linear Probing Comparison: 60
+ ~ if searching for word ~
+Separate Chaining Comparison (NEW): 8
+Linear Probing Comparison (NEW): 1
+Separate Chaining Comparison (OLD): 14
+Linear Probing Comparison (OLD): 1
 Process finished with exit code 0
 
 
@@ -32,9 +36,11 @@ Type your password: 9a$D#qW7!uX&Lv3zT
 
 Password is STRONG!
 
- ~ when searching for word ~
-Separate Chaining Comparison: 110000
-Linear Probing Comparison: 20000
+ ~ if searching for word ~
+Separate Chaining Comparison (NEW): 1
+Linear Probing Comparison (NEW): 2
+Separate Chaining Comparison (OLD): 1
+Linear Probing Comparison (OLD): 1
 
 
 
@@ -42,9 +48,11 @@ Type your password: B@k45*W!c$Y7#zR9P
 
 Password is STRONG!
 
- ~ when searching for word ~
-Separate Chaining Comparison: 110000
-Linear Probing Comparison: 20000
+ ~ if searching for word ~
+Separate Chaining Comparison (NEW): 1
+Linear Probing Comparison (NEW): 2
+Separate Chaining Comparison (OLD): 1
+Linear Probing Comparison (OLD): 1
 
 
 
@@ -52,6 +60,8 @@ Type your password: X$8vQ!mW#3Dz&Yr4K5
 
 Password is STRONG!
 
- ~ when searching for word ~
-Separate Chaining Comparison: 110000
-Linear Probing Comparison: 20000
+ ~ if searching for word ~
+Separate Chaining Comparison (NEW): 1
+Linear Probing Comparison (NEW): 2
+Separate Chaining Comparison (OLD): 1
+Linear Probing Comparison (OLD): 1
